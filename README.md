@@ -1,6 +1,6 @@
  👋 Hi, I’m @keshavsharma321
  👀 I’m interested in Learning New Techs.
-🌱 I’m currently learning Web Developmwnt .
+🌱 I’m currently learning Web Development .
 💞️ I’m looking to collaborate on various technical platforms where i can enhance my skills.
  📫 How to reach me ...
  - mail me at keshavsharma5676@gmail.com
